@@ -1,13 +1,11 @@
 ---
-name: Tong
+name: Anitha Ramesh
 avatar: /static/images/avatar.webp
-email: i@hackinggate.com
+email: anitha.ramesh@gmail.com
 github: https://github.com/HackingGate
 type: Authors
 ---
-### Hi there 👋, I'm Tong :)
-- A developer, a learner, an explorer.
-- Native speaker of the Zhi-Yan dialect of the Jin Chinese language, also speaks Mandarin. Lived in Shenzhen for 1.5 years. Loved travelling to Hong Kong. Taught myself Cantonese.
-- Lived in Tokyo for over 6 years. Speaks fluent Japanese.
+### Hi there 👋, I'm Anitha Ramesh :)
+With over 10 years of experience in Java training, I am passionate about empowering individuals with the skills and knowledge needed to thrive in the world of software development. My journey in programming began with a deep curiosity about how software works, which has evolved into a commitment to share my expertise with aspiring developers.
 
-[See full README.md](https://github.com/HackingGate/HackingGate/blob/main/README.md)  
+

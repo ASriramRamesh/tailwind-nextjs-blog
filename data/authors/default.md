@@ -1,6 +1,6 @@
 ---
 name: Anitha Ramesh
-avatar: /static/images/avatar.webp
+avatar: /static/images/newavatar.webp
 email: anitha.ramesh@gmail.com
 github: https://github.com/HackingGate
 type: Authors

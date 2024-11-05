@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'HackingGate',
-  author: 'Tong',
-  headerTitle: 'HackingGate',
+  title: 'Anitha',
+  author: 'Anitha',
+  headerTitle: 'Anitha',
   description: 'To dream and to build, To fail and to succeed.',
   language: 'en-us',
   theme: 'system', // system, dark or light

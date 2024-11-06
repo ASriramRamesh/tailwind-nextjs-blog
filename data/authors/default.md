@@ -1,5 +1,5 @@
 ---
-name: Anitha Ramesh
+name: Steevan J
 avatar: /static/images/newavatar.webp
 email: anitha.ramesh@gmail.com
 github: https://github.com/HackingGate

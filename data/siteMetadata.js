@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Anitha',
-  author: 'Anitha',
-  headerTitle: 'Anitha',
+  title: 'Steevan J',
+  author: 'Steevan',
+  headerTitle: 'Steevens Blog',
   description: 'To dream and to build, To fail and to succeed.',
   language: 'en-us',
   theme: 'system', // system, dark or light
